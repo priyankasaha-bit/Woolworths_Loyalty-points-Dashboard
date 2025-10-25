@@ -1,4 +1,4 @@
-🏪 **Woolworths Store Location in Sydney Dashboard**
+# Woolworths Store Location in Sydney Dashboard
 
 **Tool:** Power BI  
 
@@ -36,6 +36,13 @@ As I started working on the 3-Page Power BI suite, I drew some strange but meani
 
  -Majority of customers didn’t redeem a single loyalty point may be due to lack of awareness or reward fatigue. Bruce Coffey was the only one who could redeem roughly 40% of 1289 points earned.
 At times, customer behaviour defies logic — turning a blind eye to clear opportunities, like unredeemed rewards that could’ve brought instant value.
+
+------
+
+🖼️ **Dashboard Preview**
+
+![woolies](https://github.com/priyankasaha-bit/Woolworths_Loyalty-points-Dashboard/blob/main/Woolworth%20screenshot_1.png?raw=true)
+
 
 
 📂**Download the Power BI File**
