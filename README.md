@@ -42,7 +42,7 @@ At times, customer behaviour defies logic — turning a blind eye to clear oppor
 🖼️ **Dashboard Preview**
 
 ![woolies](https://github.com/priyankasaha-bit/Woolworths_Loyalty-points-Dashboard/blob/main/Woolworth%20screenshot_1.png?raw=true)
-
+![woolies](https://github.com/priyankasaha-bit/Woolworths_Loyalty-points-Dashboard/blob/main/Woolworth_screenshot_2.png?raw=true)
 
 
 📂**Download the Power BI File**
