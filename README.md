@@ -38,10 +38,11 @@ As I started working on the 3-Page Power BI suite, I drew some strange but meani
 At times, customer behaviour defies logic — turning a blind eye to clear opportunities, like unredeemed rewards that could’ve brought instant value.
 
 
-📂 **Download the Power BI File**
+📂**Download the Power BI File**
 
 You can download the Power BI project here:  
-https://drive.google.com/file/d/1UY3zc_wY7rT3slFOCgzdJBkkI0RGhM_4/view?usp=sharing 
+
+https://drive.google.com/file/d/1UY3zc_wY7rT3slFOCgzdJBkkI0RGhM_4/view?usp=sharing
 ---
 
 💬 **About the Author**
