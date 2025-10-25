@@ -7,12 +7,14 @@
 ---
 
 📖**Project Overview**
+
 This Power BI dashboard provides a spatial analysis of **Woolworths store locations across Sydney**, enabling stakeholders to understand store density, accessibility, and proximity to key population areas.  
 The goal is to uncover geographic patterns that inform **store placement, expansion strategy, and market reach**.
 
 ---
 
-🎯 Key Objectives
+🎯 **Key Objectives**
+
 - Map all Woolworths store locations across Sydney using geographic coordinates  
 - Identify store concentration in high-demand areas  
 - Analyze accessibility by population density and region  
@@ -36,7 +38,7 @@ As I started working on the 3-Page Power BI suite, I drew some strange but meani
 At times, customer behaviour defies logic — turning a blind eye to clear opportunities, like unredeemed rewards that could’ve brought instant value.
 
 
-📂 Download the Power BI File
+📂 **Download the Power BI File**
 
 You can download the Power BI project here:  
 https://drive.google.com/file/d/1UY3zc_wY7rT3slFOCgzdJBkkI0RGhM_4/view?usp=sharing 
