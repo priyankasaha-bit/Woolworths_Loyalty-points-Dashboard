@@ -55,4 +55,4 @@ https://drive.google.com/file/d/1UY3zc_wY7rT3slFOCgzdJBkkI0RGhM_4/view?usp=shari
 💬 **Created by**
 
 **Priyanka Saha**, Data Analyst skilled in Power BI and data visualization, with a passion for turning spatial and business data into actionable insights.  
-📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
+📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/details/projects/
