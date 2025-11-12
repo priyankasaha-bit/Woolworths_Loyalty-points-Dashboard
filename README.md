@@ -50,6 +50,7 @@ At times, customer behaviour defies logic — turning a blind eye to clear oppor
 You can download the Power BI project here:  
 
 https://drive.google.com/file/d/1UY3zc_wY7rT3slFOCgzdJBkkI0RGhM_4/view?usp=sharing
+https://drive.google.com/file/d/1UY3zc_wY7rT3sIFOCgzdJBkkl0RGhM_4/uc?export=download&id=YOUR_FILE_ID
 ---
 
 💬 **Created by**
